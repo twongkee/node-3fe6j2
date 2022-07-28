@@ -1,0 +1,3 @@
+foo
+
+simple text file
